@@ -1,40 +1,40 @@
 ---
-- name: ✈
+- name: General
   color: FFFFBB33
   overview: travel-pvp
   bracket: brackets-all
 
-- name: hostile
+- name: Hostile
   color: FFFF4444
   overview: hostile-minimal
-  bracket: brackets-all
+  bracket: brackets-minimal
 
-- name: tactical
-  color: FF99CC00
-  overview: hostile-drones
-  bracket: brackets-all
-
-- name: fleet
+- name: Fleet
   color: FFAA66CC
   overview: friendly-ships
   bracket: brackets-all
 
-- name: auxiliary
+- name: Drones
+  color: FF99CC00
+  overview: hostile-drones
+  bracket: brackets-all
+
+- name: Auxiliary
   color: FF33B5E5
   overview: pve-npc
   bracket: brackets-all
 
-- name: system
+- name: System
   color: FFFF9933
   overview: dscan-skirmish-long
   bracket: brackets-all
 
-- name: loot
+- name: Loot
   color: FFFFFF00
   overview: extra-loot
   bracket: brackets-all
 
-- name: escape
+- name: GTFO
   color: FFFF00FF
   overview: extra-warpout
   bracket: brackets-all

@@ -9,4 +9,4 @@ groups:
   - _ship
   - rats
 states:
-  - hostile
+  - all
