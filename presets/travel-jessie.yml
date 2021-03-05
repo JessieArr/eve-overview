@@ -1,0 +1,12 @@
+---
+name: pvp
+symbol: ✈ travel
+level: 1
+groups:
+  - common-pvp
+  - gates
+  - _station
+  - _ship
+  - rats-jessie
+states:
+  - all

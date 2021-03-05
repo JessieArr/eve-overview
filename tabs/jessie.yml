@@ -1,0 +1,35 @@
+---
+- name: General
+  color: FFFFBB33
+  overview: travel-jessie
+  bracket: brackets-all
+
+- name: Hostile
+  color: FFFF4444
+  overview: hostile-minimal
+  bracket: brackets-minimal
+
+- name: Fleet
+  color: FFAA66CC
+  overview: friendly-ships
+  bracket: brackets-all
+
+- name: Drones
+  color: FF99CC00
+  overview: hostile-drones
+  bracket: brackets-all
+
+- name: DScan
+  color: FFFF9933
+  overview: dscan-jessie
+  bracket: brackets-all
+
+- name: Salvage
+  color: FFFFFF00
+  overview: extra-loot
+  bracket: brackets-all
+
+- name: GTFO
+  color: FFFF00FF
+  overview: extra-warpout
+  bracket: brackets-all

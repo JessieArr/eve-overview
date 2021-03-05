@@ -4,4 +4,4 @@ columns: jessie
 labels: default
 settings: default
 tabs:
-  - pvp
+  - jessie
